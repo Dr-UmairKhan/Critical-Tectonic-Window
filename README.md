@@ -4,7 +4,7 @@ The code of Spatially Constrained Random Forest (SC-RF) is written in Python to 
 
 ## Code support
 
-The code is developed in Python. If you are using the data files (Accretionary-Wedge Thickness, Bulk Density, Cumulative energy release, Residual Gravity, Shear Stress, and Taper Angle), please contact me: umairkhanbku@mails.ucas.ac.cn
+The code is developed in Python. If you are using the data files (Accretionary-Wedge Thickness, Bulk Density, Cumulative energy release, Residual Gravity, Shear Stress, Slab Tempreture and Taper Angle), please contact me: umairkhanbku@mails.ucas.ac.cn
 
 ## Directory structure description
 
