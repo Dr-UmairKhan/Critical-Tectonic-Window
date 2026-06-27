@@ -6,11 +6,10 @@ The Geophysically Constrained Random Forest (GC-RF) model is written in Python t
 
 Simply click the link below to open the notebook in Google Colab and run all cells:
 https://colab.research.google.com/github/Dr-UmairKhan/Critical-Tectonic-Window/blob/main/SC_RF_Makran.ipynb
-No installation required.
 
 ## Code support
 
-The code is developed in Python. If you are using the data files (Accretionary-Wedge Thickness, Bulk Density, Cumulative energy release, Residual Gravity, Shear Stress, Slab Tempreture and Taper Angle), please contact me: umairkhanbku@gmail.com
+The code is developed in Python. If you are using the data files (Accretionary-Wedge Thickness, Bulk Density, Cumulative energy release, Residual Gravity, Shear Stress, Slab Tempreture and Taper Angle) in your research publications, please contact me: umairkhanbku@gmail.com
 
 ## Directory structure description
 
@@ -22,10 +21,8 @@ The slab surface depth, thickness, and dip angle are derived from the Slab-2 mod
 
 ## Requirements
 
-```
 Python 3.10+
 numpy, scipy, pandas, scikit-learn, matplotlib, openpyxl
-```
 
 ## References
 
