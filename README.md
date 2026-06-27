@@ -17,7 +17,7 @@ The repository contains the main Jupyter notebook (SC_RF_Makran.ipynb) and a dat
 
 ## Data Sources
 
-The slab surface depth, thickness, and dip angle are derived from the Slab-2 model (Hayes et al., 2018), accessed at https://www.usgs.gov/. The magnetic anomaly data are from the 2-arc-minute global grid EMAG2v3 (Meyer et al., 2017). The free-air gravity and bathymetric data are sourced from the global 1-arc-minute satellite datasets (Sandwell et al., 2014). The earthquake data are obtained from the USGS catalog and the IRIS database. The presence locations of mud diapirs and mud volcanoes are compiled from published literature (Delisle et al., 2002; Wu et al., 2021).
+The slab surface depth, thickness, and dip angle are derived from the Slab-2 model (Hayes et al., 2018), accessed at https://www.usgs.gov/. The magnetic anomaly data are from the 2-arc-minute global grid EMAG2v3 (https://www.ncei.noaa.gov/; Meyer et al., 2017). The free-air gravity and bathymetric data are sourced from the global 1-arc-minute satellite datasets (Sandwell et al., 2014). The earthquake data are obtained from the USGS catalog and the IRIS database. The presence locations of mud diapirs and mud volcanoes are compiled from published literature (Delisle et al., 2002; Wu et al., 2021).
 
 ## Requirements
 
