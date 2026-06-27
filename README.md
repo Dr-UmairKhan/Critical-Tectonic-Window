@@ -1,6 +1,16 @@
-# Critical-Tectonic-Window
+# Critical Tectonic Window of Mud Diapirs
 
-The code of Spatially Constrained Random Forest (SC-RF) is written in Python to predict the Mud Diapir Index (MDI) for the Makran Subduction Zone. The code uses 12 geophysical predictors and known mud diapir and mud volcano locations to train a Random Forest model with 5-fold cross-validation and bootstrap ensemble.
+The Geophysically Constrained Random Forest (GC-RF) model is written in Python to predict margin-scale mud diapir spatial distributions in the Makran subduction zone. Twelve geophysical predictors and known mud diapir and mud volcano locations were used to train a Random Forest model with 5-fold cross-validation and bootstrap ensemble to generate the Mud Diapir Index (MDI).
+
+## How to Run in Google Colab (Recommended)
+
+Simply click the link below to open the notebook in Google Colab and run all cells:
+
+```
+https://colab.research.google.com/github/Dr-UmairKhan/Critical-Tectonic-Window/blob/main/SC_RF_Makran.ipynb
+```
+
+No installation required.
 
 ## Code support
 
@@ -27,9 +37,6 @@ The code is developed in Python. If you are using the data files (Accretionary-W
 │       ├── Slab top Surface Depth (Km).dat
 │       └── Taper Angle (Deg.).dat
 └── outputs/                     # Generated after running the notebook
-    ├── maps/
-    ├── figures/
-    └── tables/
 ```
 
 ## Data Sources
