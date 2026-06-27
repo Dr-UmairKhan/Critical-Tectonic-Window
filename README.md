@@ -5,11 +5,7 @@ The Geophysically Constrained Random Forest (GC-RF) model is written in Python t
 ## How to Run in Google Colab (Recommended)
 
 Simply click the link below to open the notebook in Google Colab and run all cells:
-
-```
 https://colab.research.google.com/github/Dr-UmairKhan/Critical-Tectonic-Window/blob/main/SC_RF_Makran.ipynb
-```
-
 No installation required.
 
 ## Code support
@@ -18,9 +14,7 @@ The code is developed in Python. If you are using the data files (Accretionary-W
 
 ## Directory structure description
 
-```
 The repository contains the main Jupyter notebook (SC_RF_Makran.ipynb) and a data/raw/ folder with 13 input files: Accretionary-Wedge Thickness, Bathemetry, Bulk Density, Cumulative energy release, Magnetic, Mud Diapirs Location, Residual Gravity, Shear Stress, Slab Dip, Slab Tempreture, Slab Thickness, Slab top Surface Depth, and Taper Angle. The outputs/ folder is generated after running the notebook.
-```
 
 ## Data Sources
 
