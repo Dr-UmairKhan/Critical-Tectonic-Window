@@ -19,24 +19,7 @@ The code is developed in Python. If you are using the data files (Accretionary-W
 ## Directory structure description
 
 ```
-.
-├── SC_RF_Makran.ipynb          # Main Jupyter notebook
-├── data/
-│   └── raw/
-│       ├── Accretionary-Wedge Thickness (Km).dat
-│       ├── Bathemetry (m).dat
-│       ├── Bulk Density (Kg per m3).dat
-│       ├── Cumulative energy release (log energy release (J)).dat
-│       ├── Magnetic.dat
-│       ├── Mud Diapirs Location.xlsx
-│       ├── Residual Gravity.dat
-│       ├── Shear Stress (MPA).dat
-│       ├── Slab Dip (Deg.).dat
-│       ├── Slab Tempreture (Deg.C).dat
-│       ├── Slab Thickness (Km).dat
-│       ├── Slab top Surface Depth (Km).dat
-│       └── Taper Angle (Deg.).dat
-└── outputs/                     # Generated after running the notebook
+The repository contains the main Jupyter notebook (SC_RF_Makran.ipynb) and a data/raw/ folder with 13 input files: Accretionary-Wedge Thickness, Bathemetry, Bulk Density, Cumulative energy release, Magnetic, Mud Diapirs Location, Residual Gravity, Shear Stress, Slab Dip, Slab Tempreture, Slab Thickness, Slab top Surface Depth, and Taper Angle. The outputs/ folder is generated after running the notebook.
 ```
 
 ## Data Sources
