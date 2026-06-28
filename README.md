@@ -4,16 +4,30 @@ The Geophysically Constrained Random Forest (GC-RF) model is written in Python t
 
 ## How to Run in Google Colab (Recommended)
 
-Simply click the link below to open the notebook in Google Colab and run all cells:
-https://colab.research.google.com/github/Dr-UmairKhan/Critical-Tectonic-Window/blob/main/SC_RF_Makran.ipynb
+Sign in to Colab Google account and click the link: https://colab.research.google.com/github/Dr-UmairKhan/Critical-Tectonic-Window/blob/main/SC_RF_Makran.ipynb
 
 ## Code support
 
-The code is developed in Python. If you are using the data files (Accretionary-Wedge Thickness, Bulk Density, Cumulative energy release, Residual Gravity, Shear Stress, Slab Tempreture and Taper Angle) in your research publications, please contact me: umairkhanbku@gmail.com
+The code is developed in Python. If you are using the data files (Accretionary-Wedge Thickness, Bulk Density, Cumulative energy release, Residual Gravity, Shear Stress, Slab Temperature and Taper Angle) in your research publications, please contact me: umairkhanbku@gmail.com
 
 ## Directory structure description
 
-The repository contains the main Jupyter notebook (SC_RF_Makran.ipynb) and a data/raw/ folder with 13 input files: Accretionary-Wedge Thickness, Bathemetry, Bulk Density, Cumulative energy release, Magnetic, Mud Diapirs Location, Residual Gravity, Shear Stress, Slab Dip, Slab Tempreture, Slab Thickness, Slab top Surface Depth, and Taper Angle. The outputs/ folder is generated after running the notebook.
+- `SC_RF_Makran.ipynb` — Main Jupyter notebook
+- `data/raw/` — Contains 13 input data files:
+  - `Accretionary-Wedge Thickness (Km).dat`
+  - `Bathemetry (m).dat`
+  - `Bulk Density (Kg per m3).dat`
+  - `Cumulative energy release (log energy release (J)).dat`
+  - `Magnetic.dat`
+  - `Mud Diapirs Location.xlsx`
+  - `Residual Gravity.dat`
+  - `Shear Stress (MPA).dat`
+  - `Slab Dip (Deg.).dat`
+  - `Slab Temperature (Deg.C).dat`
+  - `Slab Thickness (Km).dat`
+  - `Slab top Surface Depth (Km).dat`
+  - `Taper Angle (Deg.).dat`
+- `outputs/` — Generated after running the notebook (`maps/`, `figures/`, `tables/`)
 
 ## Data Sources
 
